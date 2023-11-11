@@ -2,7 +2,7 @@ const { default: TicketForm } = require("@/app/(components)/TicketForm")
 
 const TicketPage = ({params}) => {
   return (
-<TicketForm/>  )
+            <TicketForm/>  )
 }
 
 export default TicketPage
